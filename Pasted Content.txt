@@ -1,0 +1,36 @@
+1. Could you tell me more about your target audience? (e.g., small businesses, large enterprises, individuals)
+Sample Answer:
+“Our primary target audience consists of small to medium-sized businesses that need affordable yet robust cybersecurity and compliance solutions. We also serve larger enterprises that require scalable solutions, but our core focus is on organizations that may not have dedicated cybersecurity teams. We aim to provide an easy-to-use platform that delivers professional-grade tools without the complexity typically associated with enterprise software.”
+
+⸻
+
+2. What are the key features that differentiate your Free, Standard, and Enterprise subscription tiers?
+Sample Answer:
+“Our subscription tiers are designed to cater to different levels of organizational needs:
+	•	Free: Offers basic features to help small businesses get started with cybersecurity awareness and compliance. This includes a limited set of modules, basic reporting, and community support.
+	•	Standard: Includes all Free features plus enhanced modules, advanced reporting, priority email support, and additional customization options to meet the growing needs of mid-sized companies.
+	•	Enterprise: Provides a fully comprehensive solution with all features from the Standard tier, plus premium support (including phone and live chat), integrations with other enterprise systems, advanced analytics, and custom module options. This tier is ideal for organizations with complex security requirements and larger teams.”
+
+⸻
+
+3. Do you have any specific design preferences or brand elements (colors, logo, imagery) that should be incorporated?
+ Answer:
+“We prefer a modern, clean design that conveys trust and professionalism. Our brand colors are a mix of deep blues and grays with accents of a vibrant color (such as green or orange) to highlight key elements. We would like our logo to be prominently displayed, and imagery should evoke security, technology, and a forward-thinking mindset. Simple icons and flat design elements are preferred over overly complex visuals.”
+
+⸻
+
+4. What are the main sections you’d like to include on your website? (e.g., Home, About, Features, Pricing, Contact, Blog)
+ Answer:
+“We plan to include the following main sections on our website:
+	•	Home: A clear overview of our value proposition and key features.
+	•	About: Information about our company history, mission, and team.
+	•	Features: A detailed explanation of the features available in each subscription tier, with interactive demos or screenshots where applicable.
+	•	Pricing: Transparent pricing plans for our Free, Standard, and Enterprise tiers, along with any available promotions or discounts.
+	•	Contact: A contact form, support resources, and information on how to get in touch.
+	•	Blog/Resources: Educational content on cybersecurity trends, best practices, and case studies to help our customers stay informed.”
+
+⸻
+
+5. Do you have any examples of websites in your industry that you admire?
+Answer:
+“Yes, we admire websites such as https://phished.io/  and https://www.guardey.com/ for their clean design, intuitive navigation, and clear presentation of complex information. We also appreciate how these sites blend technical detail with engaging visuals and customer success stories. These sites set a high standard for usability and professionalism in the cybersecurity space.”
