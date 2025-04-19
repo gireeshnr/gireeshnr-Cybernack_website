@@ -1,0 +1,43 @@
+6:18:07 PM: build-image version: 305a433542175847ae19d9789b7bf59fd8b9de02 (noble)
+6:18:07 PM: buildbot version: 305a433542175847ae19d9789b7bf59fd8b9de02
+6:18:08 PM: Fetching cached dependencies
+6:18:08 PM: Failed to fetch cache, continuing with build
+6:18:08 PM: Starting to prepare the repo for build
+6:18:08 PM: No cached dependencies found. Cloning fresh repo
+6:18:08 PM: git clone --filter=blob:none https://github.com/gireeshnr/gireeshnr-Cybernack_website
+6:18:08 PM: Preparing Git Reference refs/heads/main
+6:18:10 PM: Starting to install dependencies
+6:18:10 PM: Python version set to 3.13.3
+6:18:10 PM: Ruby version set to 2.7.2
+6:18:10 PM: mise go@1.19         install
+6:18:10 PM: mise go@1.19         download go1.19.linux-amd64.tar.gz
+6:18:12 PM: mise go@1.19         checksum go1.19.linux-amd64.tar.gz
+6:18:12 PM: mise go@1.19         extract go1.19.linux-amd64.tar.gz
+6:18:14 PM: mise go@1.19         go version
+6:18:14 PM: mise go@1.19         go version go1.19 linux/amd64
+6:18:14 PM: mise go@1.19       ✓ installed
+6:18:14 PM: Go version set to 1.19
+6:18:14 PM: Using PHP version 8.3
+6:18:16 PM: v22.14.0 is already installed.
+6:18:16 PM: Now using node v22.14.0 (npm v10.9.2)
+6:18:16 PM: Enabling Node.js Corepack
+6:18:16 PM: Started restoring cached build plugins
+6:18:16 PM: Finished restoring cached build plugins
+6:18:16 PM: Successfully installed dependencies
+6:18:16 PM: No build steps found, continuing to publishing
+6:18:16 PM: Starting to deploy site from '/'
+6:18:16 PM: Calculating files to upload
+6:18:17 PM: Post processing done
+6:18:17 PM: Section completed: postprocessing
+6:18:17 PM: Post processing - redirect rules
+6:18:17 PM: Starting post processing
+6:18:17 PM: Skipping form detection
+6:18:17 PM: Post processing - header rules
+6:18:17 PM: 36 new file(s) to upload
+6:18:17 PM: 0 new function(s) to upload
+6:18:17 PM: Section completed: deploying
+6:18:17 PM: Section completed: building
+6:18:17 PM: Uploading Cache of size 98.2KB
+6:18:17 PM: Section completed: cleanup
+6:18:17 PM: Finished processing build request in 9.788s
+6:18:18 PM: Site is live ✨
